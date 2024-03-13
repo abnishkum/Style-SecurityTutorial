@@ -1,17 +1,12 @@
 # Style-SecurityTutorial
 Advance Styling in React and Security best practise for React App development.
-The offical code for the React, Security, & Full-Stack Auth with Node and PostgreSQL course on Udemy by David Katz.
-
-Check out the course: https://www.udemy.com/react-security
-
-This course will turn you into a React and Web Security Developer and Engineer.
-
-The best way to truly understand how web security and React align is to jump right into the code. This course will provide you with the fundamental theory. But, you will dive into coding examples as soon as possible to get your hands dirty with security.
-
-In addition, authentication is often a tedious process when building any React application. So this course will take you through code that can apply to any project to add a full system of authentication (signing up, logging in, and more).
 
 Some of the main course highlights:
-
+Styling in React App development.
+ Inline styling
+ Creating style object variable
+ Sharing style across many react component.
+ Tailwind CSS
 Understand various cyber attacks: XSS, CSRF, Broken Authentication, and more.
 Implement a full system of authentication in a React application.
 Build React Components with Vulnerabilities.

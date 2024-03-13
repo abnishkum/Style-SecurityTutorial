@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  min-height: 200px;
+  margin: 30px auto;
+  box-sizing: border-box;
+  background-color: lightblue;
+  padding: 10px;
+
+}

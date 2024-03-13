@@ -1,0 +1,37 @@
+// declare global variables
+$paddingVertical: 10px;
+$paddingHorizontal: 20px;
+$text-center: center;
+$text-white: #ffffff;
+$text-black: #000000;
+$text-red: rgb(185 28 28);
+$font-size: 16px;
+
+.error {
+  color: $text-red;
+}
+
+.container{
+  display:flex;
+  flex-direction: column;
+}
+
+.flex-center {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+%typo-2 {
+  padding: $paddingVertical $paddingHorizontal;
+  text-align: $text-center;
+}
+
+.h2 {
+ @extend %typo-2;
+ color: $text-white;
+}
+
+.label {
+ @extend %typo-2;
+}
